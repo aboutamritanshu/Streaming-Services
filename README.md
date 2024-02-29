@@ -1,4 +1,4 @@
-# Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
+# Streaming Services built using React, Styled Components, Figma, Node.js, Express and MongoDB.
 
 ## Steps to Start the App
 
